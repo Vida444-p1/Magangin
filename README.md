@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Magangin - Platform Magang Mahasiswa & Perusahaan
 
 Aplikasi mobile modern untuk mempertemukan mahasiswa dengan lowongan magang yang relevan dari berbagai perusahaan, dibangun menggunakan **Flutter** dan **Supabase**.
@@ -77,3 +78,6 @@ supabase/
 flutter pub get
 flutter run
 ```
+=======
+# Magangin
+>>>>>>> 8840ed9b1d3630468450fe199a3d557b25be2a77
